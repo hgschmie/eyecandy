@@ -1,0 +1,12 @@
+html { margin:0; padding:0; height:97%; }
+body { margin:0; padding:0; height:100%; }
+
+.gwt-PopupPanel { border: 0; margin: 0; padding: 0; background-color : transparent;}
+
+.gwt-PopupPanel .popupContent { background-color : transparent; }
+
+._map { margin: 25px; width: 95%; height: 100%; overflow:hidden; }
+
+._infobox { padding: 5px; border: black solid 1px; width: 10%; margin-left: 20px; }
+
+.city-table td { white-space: nowrap; font-size: 8pt; }
